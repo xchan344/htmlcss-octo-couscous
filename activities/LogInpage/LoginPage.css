@@ -1,0 +1,55 @@
+body
+    {
+        background-image: url(PSU.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 15%;
+    }
+h2
+    {
+        font-size: x-large;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.main
+    {
+        text-align: center;
+        color: rgb(29, 29, 192);
+        padding: 15px;
+        margin: auto;
+        width: 400px;
+        margin: 20 0 0 600px;
+        background: rgb(3, 199, 248);
+        border: solid;
+        border-width: 1px;
+        border-radius: 20px;
+        opacity: 0.7;
+    }
+.main:hover
+    {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
+table
+    {
+        margin: auto;
+    }
+.input
+    {
+        font-size: medium;
+        color: rgb(15, 15, 83);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+a
+    {
+        font-size: small;
+        color: black;
+    }
+.forgotpass
+    {
+        color: rgb(36, 36, 180);
+    }
+marquee
+    {
+        animation-direction: alternate-reverse;
+    }

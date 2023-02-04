@@ -1,0 +1,41 @@
+
+body
+    {
+        background-image: url(PSU.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 15%;
+    }
+div
+    {
+        border: solid;
+        margin: auto;
+        width: 500px;
+        font-size: large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(29, 29, 192);
+        padding: 15px;
+        background: rgb(3, 199, 248);
+        border-width: 1px;
+        border-radius: 20px;
+        opacity: 0.7;
+    }
+div:hover
+    {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
+table
+    {
+        margin: auto;
+    }
+div .submit-button
+    {
+        margin-left:  49%;
+        margin-top: 15px;
+    }
+div td
+    {
+        padding-top: 10px;
+    }
